@@ -81,7 +81,7 @@ This project applies unsupervised learning and time series techniques to analyze
 
 ```bash
 # Clone the repo
-git clone https://github.com/cbyabush/<repo-name>.git
+[git clone https://github.com/cbyabush/<repo-name>.git](https://github.com/ChristianByabushi/data-applied-machine-learning)
 cd <repo-name>
 
 # Install dependencies
@@ -96,4 +96,5 @@ jupyter notebook cbyabush_assignment_5.ipynb
 ## License
 
 This project is for academic purposes — DIAML course, 2024.﻿# data-applied-machine-learning
+
 
