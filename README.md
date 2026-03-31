@@ -1,6 +1,5 @@
 # Financial Understanding of DJIA Component Companies
 
-> **Course:** DIAML — Assignment 5  
 > **Topics:** PCA · Hierarchical Clustering · Time Series Forecasting
 
 ---
